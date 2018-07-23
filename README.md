@@ -1,2 +1,2 @@
 # MyProject
-# MyNewONeProject
+# myNewProject
